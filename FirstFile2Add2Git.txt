@@ -7,3 +7,6 @@ This is a third line of text.
 //--------------------- start of a 2nd set of changes..
 Here is a new line.. 
 // -------------------- end of a 2nd set of changes...
+
+Changes in the Clone's copy of this repository. 
+// End of Clones changes. 
